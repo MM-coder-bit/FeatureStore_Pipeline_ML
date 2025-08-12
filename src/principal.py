@@ -12,7 +12,7 @@ import explora_dados
 
 def main():
 
-    print("\nIniciando a Execução do Pipeline do Projeto 5!")
+    print("\nIniciando a Execução do Pipeline!")
 
     # Pausa a execução por 5 segundos
     time.sleep(5)
